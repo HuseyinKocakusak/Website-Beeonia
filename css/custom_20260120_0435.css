@@ -2538,6 +2538,14 @@ button {
   background: rgba(255, 255, 255, 0.02);
 }
 
+.faq-table tbody tr.faq-table-highlight {
+  background: rgba(201, 162, 39, 0.06);
+}
+
+.faq-table tbody tr.faq-table-highlight:hover {
+  background: rgba(201, 162, 39, 0.12);
+}
+
 /* FAQ References */
 .faq-references {
   margin-top: 1.5rem;
